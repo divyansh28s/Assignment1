@@ -1,0 +1,31 @@
+#div1{
+    padding: 5vh;
+    display: grid;
+  grid-row-gap: 7vh;
+  margin-top: 5vh;
+}
+
+#div2 img{
+    height: 25vh;
+    width: 25vw;
+    float: left;
+    margin-right: 3vh;
+}
+#div2{
+    padding: 1vh;
+    box-shadow: 0px 2px 20px black;
+    text-align: center;
+}
+h3{
+    margin-top: 6vh;
+}
+a{
+    margin-left: 10vw;
+}
+button{
+    border: 2px solid blue;
+}
+#div4{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
